@@ -1,0 +1,19 @@
+.cell{
+    width: 15px;
+    height: 15px;
+    background-color: #EDEDED;
+    margin-bottom: 2px;
+    margin-right: 5px;
+}
+
+.cell:hover{
+    outline: 1px solid black;
+}
+
+.popup{
+    background-color: black;
+    width: 145px;
+    height: 42px;
+    color: white;
+    position: absolute;
+}
